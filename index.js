@@ -18,7 +18,6 @@ module.exports = {
       app.import(app.bowerDirectory + '/jquery.payment/lib/jquery.payment.js');
       app.import(app.bowerDirectory + '/sweetalert/dist/sweetalert.min.js');
       app.import(app.bowerDirectory + '/sweetalert/dist/sweetalert.css');
-      app.import(app.bowerDirectory + '/FitText.js/jquery.fittext.js');
 
       // bootstrap libs
       [
